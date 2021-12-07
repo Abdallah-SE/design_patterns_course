@@ -1,3 +1,4 @@
 config.php
 download.jpg
-!src/img.jpg
+src/img.jpg
+vendor
