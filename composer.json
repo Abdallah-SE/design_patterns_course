@@ -1,0 +1,19 @@
+{
+    "name": "abdallah/design_patterns_course",
+    "description": "this is practicing design patterns",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Abdallah-SE",
+            "email": "abdalla.a911@yahoo.com"
+        }
+    ],
+    "autoload": {
+        "psr-4" : {
+            "desgignpattern\\":"src/"
+        }
+    }
+    ,
+    "require": {}
+}
